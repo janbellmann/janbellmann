@@ -1,12 +1,13 @@
-# 💫 About Me:
+<h1 align="center">👋 Wassup Gang</h2>
+
+## 💬 Unpopular Quotes:
 🔭 I’m currently working on a bit of everything and nothing specific<br>
 🌱 I’m currently learning the magic of Swift<br>
 💬 Ask me about anything, but not too specific — I might not know.<br>
 ⚡ Fun fact: The first computer bug was an actual bug and was fixed by literal "debugging" it.<br><br>
-(Created with ChatGPT to keep my brain free for the big stuff)
 
 
-# 💻 Tech Stack:
+## 💻 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,7 +17,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 Time spent:
 <!--START_SECTION:waka-->
 
 ```txt

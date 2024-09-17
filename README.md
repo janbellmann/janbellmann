@@ -4,7 +4,7 @@
 🔭 I’m currently working on a bit of everything and nothing specific<br>
 🌱 I’m currently learning the magic of Swift<br>
 💬 Ask me about anything, but not too specific — I might not know.<br>
-⚡ Fun fact: The first computer bug was an actual bug and was fixed by literal "debugging" it.<br><br>
+⚡ Fun fact: The first computer bug was an actual bug and was fixed by literal "debugging" it.<br>
 
 
 ## 💻 Languages:

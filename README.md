@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              30 hrs 39 mins  ██████████████████▒░░░░░░   73.60 %
-HTML              10 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Properties        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-AsciiDoc          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Java Properties   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java              28 hrs 7 mins   ███████████████████▒░░░░░   77.38 %
+HTML              7 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Properties        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Java Properties   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+AsciiDoc          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->

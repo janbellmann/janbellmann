@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         27 mins         ████████████████████████▓   98.16 %
-AsciiDoc     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

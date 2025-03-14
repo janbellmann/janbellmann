@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ███████████████████████▒░   93.20 %
-JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-.env file    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

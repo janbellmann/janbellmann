@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         3 mins          ██████████████████████░░░   87.74 %
+HTML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
